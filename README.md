@@ -48,8 +48,6 @@ A curated list of robotics simulators and libraries.
 * [Simbad](http://simbad.sourceforge.net/) - A Java 3D robot simulator, enables to write own robot controller with modifying environment using available sensors.
 * [Unity](https://unity.com/solutions/automotive-transportation-manufacturing/robotics) - Popular game engine that now offers open-source tools, tutorials, and resources for robotics simulation [[github](https://github.com/Unity-Technologies/Unity-Robotics-Hub) ![Unity-Technologies/Unity-Robotics-Hub](https://img.shields.io/github/stars/Unity-Technologies/Unity-Robotics-Hub.svg?style=flat&label=Star&maxAge=86400)]
 * [Webots](http://www.cyberbotics.com/) - A complete development environment to model, program and simulate robots, vehicles and mechanical systems [[github](https://github.com/cyberbotics/webots) ![cyberbotics/webots](https://img.shields.io/github/stars/cyberbotics/webots.svg?style=flat&label=Star&maxAge=86400)]
-* [OSEF Framework](https://github.com/emerladcompass/OSEF-Framework)
-Aviation safety supervision using limit cycle dynamics
 
 ###### Commercial
 
@@ -119,6 +117,7 @@ Aviation safety supervision using limit cycle dynamics
 | Tiny Differentiable Simulator | rigid | (todo) | C++, Python | Apache-2.0 | [github](https://github.com/google-research/tiny-differentiable-simulator) | ![google-research/tiny-differentiable-simulator](https://img.shields.io/github/stars/google-research/tiny-differentiable-simulator.svg?style=flat&label=Star&maxAge=86400) |
 | [trep](http://murpheylab.github.io/trep/) | rigid | dm, trj-opt | C, Python | GPL-3.0 | [github](https://github.com/MurpheyLab/trep) | ![trep](https://img.shields.io/github/stars/MurpheyLab/trep.svg?style=flat&label=Star&maxAge=86400) |
 | qu3e | rigid | - | C++ | Zlib | [github](https://github.com/RandyGaul/qu3e) | ![qu3e](https://img.shields.io/github/stars/RandyGaul/qu3e.svg?style=flat&label=Star&maxAge=86400) |
+| [OSEF Framework](https://github.com/emerladcompass/OSEF-Framework) | uav, aero | stability analysis, limit cycle dynamics | Python | MIT | [github](https://github.com/emerladcompass/OSEF-Framework) |
 
 For simplicity, shortened names are used to represent the supported models and features as
 
