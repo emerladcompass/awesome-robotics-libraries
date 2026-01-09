@@ -117,7 +117,7 @@ A curated list of robotics simulators and libraries.
 | Tiny Differentiable Simulator | rigid | (todo) | C++, Python | Apache-2.0 | [github](https://github.com/google-research/tiny-differentiable-simulator) | ![google-research/tiny-differentiable-simulator](https://img.shields.io/github/stars/google-research/tiny-differentiable-simulator.svg?style=flat&label=Star&maxAge=86400) |
 | [trep](http://murpheylab.github.io/trep/) | rigid | dm, trj-opt | C, Python | GPL-3.0 | [github](https://github.com/MurpheyLab/trep) | ![trep](https://img.shields.io/github/stars/MurpheyLab/trep.svg?style=flat&label=Star&maxAge=86400) |
 | qu3e | rigid | - | C++ | Zlib | [github](https://github.com/RandyGaul/qu3e) | ![qu3e](https://img.shields.io/github/stars/RandyGaul/qu3e.svg?style=flat&label=Star&maxAge=86400) |
-| [OSEF Framework](https://github.com/emerladcompass/OSEF-Framework) | uav, aero | stability analysis, limit cycle dynamics | Python | MIT | [github](https://github.com/emerladcompass/OSEF-Framework) |
+| [OSEF](https://github.com/emerladcompass/OSEF-Framework) | uav, aero | stability analysis, limit cycle dynamics | Python | MIT | [github](https://github.com/emerladcompass/OSEF-Framework) |
 
 For simplicity, shortened names are used to represent the supported models and features as
 
